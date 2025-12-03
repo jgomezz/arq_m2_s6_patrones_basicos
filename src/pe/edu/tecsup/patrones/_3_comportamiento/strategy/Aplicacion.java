@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones._3_comportamiento.estrategia;
+package pe.edu.tecsup.patrones._3_comportamiento.strategy;
 
 /**
  *  Prematricula -> Matricula -> Reporte de matricula -> Fin de ciclo
