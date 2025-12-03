@@ -3,7 +3,7 @@
 ### 1.- Patrones Creacionales
 - Singleton
 - Factory
-- Builder  **
+- ** Builder  **
 
 ### 2.- Patrones Estructurales
 - Adapter 
@@ -11,6 +11,6 @@
 
 ### 3.- Patrones de Comportamiento
 - Observer
-- Strategy
+- ** Strategy **
 
 
