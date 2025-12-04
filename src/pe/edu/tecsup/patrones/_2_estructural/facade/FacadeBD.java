@@ -1,11 +1,11 @@
 package pe.edu.tecsup.patrones._2_estructural.facade;
 
-public class BaseDatosFacade {
+public class FacadeBD {
     private ConexionBD conexion;
     private ValidadorSQL validador;
     private Logger logger;
 
-    public BaseDatosFacade() {
+    public FacadeBD() {
         this.conexion = new ConexionBD();
         this.validador = new ValidadorSQL();
         this.logger = new Logger();

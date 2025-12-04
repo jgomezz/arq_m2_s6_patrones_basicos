@@ -7,7 +7,7 @@
 
 ### 2.- Patrones Estructurales
 - ** Adapter ** --
-- ** Facade **
+- ** Facade ** --
 
 ### 3.- Patrones de Comportamiento
 - ** Observer **
