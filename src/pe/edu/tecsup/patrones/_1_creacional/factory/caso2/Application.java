@@ -9,6 +9,10 @@ public class Application {
         UserRepository repository = factory.createRepository();
         repository.findUserById(1);
 
+        //CreateUserUseCase createUserUseCase = factory.createCreateUserUseCase();
+        //createUserUseCase.execute(2);
+
+
     }
 
 }
