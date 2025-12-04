@@ -1,8 +1,8 @@
 package pe.edu.tecsup.patrones._2_estructural.adapter;
 
-public class LoggerSimple implements Logger {
+public class LoggerLegacy implements Logger {
     @Override
     public void log(String message) {
-        System.out.println("[INFO] " + message);
+        System.out.println("[Legacy INFO] " + message);
     }
 }
