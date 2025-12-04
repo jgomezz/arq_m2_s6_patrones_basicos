@@ -10,6 +10,7 @@ public class Configuracion {
 
     // Constructor privado para evitar instanciacion externa
     private Configuracion() {
+        // Inicializa los valores por defecto
         this.url = "Valor por defecto";
     }
 
@@ -20,6 +21,10 @@ public class Configuracion {
         }
         return instancia;
     }
+
+    // -------------------------
+    //  Parametros de configuracion
+    // -------------------------
 
     // Metodos para manejar la configuracion
     public String getUrl() {
